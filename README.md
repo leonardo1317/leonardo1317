@@ -1,7 +1,5 @@
 <sub>Backend Engineer · Colombia</sub>
 
-# Leonardo Romero Silva
-
 **I build distributed systems that hold up under pressure.**
 
 <sub>Construyo sistemas distribuidos resilientes y de alto rendimiento.</sub>
@@ -19,7 +17,7 @@
 
 ### Approach
 - Hexagonal Architecture
-- Domain-Driven Design
+- Domain-Driven Design  
 - Event-Driven Systems
 - Distributed Patterns
 - Zero-downtime deployments
@@ -36,9 +34,6 @@
 
 **Liana Config** — Framework-agnostic configuration library for Java  
 *Multi-format, immutable, thread-safe and production-ready.*
-
-![Java](https://img.shields.io/badge/Java-orange?style=flat-square)
-![SPI](https://img.shields.io/badge/SPI-557?style=flat-square)
 
 → [leonardo1317/liana-config](https://github.com/leonardo1317/liana-config)
 
